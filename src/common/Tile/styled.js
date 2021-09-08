@@ -40,6 +40,12 @@ export const Tile = styled.div`
         grid-template-areas:
           "image content"
           "description description";
+
+          &:hover {
+        background-color: ${({ theme }) => theme.colors.white};
+        transform: scale(1);
+      }
+
       }
     `}
 
