@@ -12,7 +12,7 @@ export const Tile = styled.div`
 
   &:hover {
     background-color: ${({ theme }) => theme.colors.whitePointer};
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
 
   @media (max-width: ${({ theme }) => theme.breakpoints.tablet}px) {
@@ -46,7 +46,7 @@ export const Tile = styled.div`
   ${({ medium }) =>
     medium &&
     css`
-      padding: 16px;
+      padding: 10px;
       width: 310px;
       min-height: 650px;
       grid-template-columns: 1fr;
