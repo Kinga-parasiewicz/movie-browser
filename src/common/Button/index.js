@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Button = styled.button`
   padding: 8px 16px;
+  margin-top: 10px;
   margin-right: 12px;
   background-color: ${({ theme }) => theme.colors.pattensBlue};
   color: ${({ theme }) => theme.colors.woodsmoke};
