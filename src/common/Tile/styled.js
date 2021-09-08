@@ -47,7 +47,7 @@ export const Tile = styled.div`
     medium &&
     css`
       padding: 16px;
-      width: 324px;
+      width: 310px;
       min-height: 650px;
       grid-template-columns: 1fr;
       grid-template-areas:
