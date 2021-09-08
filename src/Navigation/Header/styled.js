@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 
 export const LogoWrapper = styled.div`
   display: flex;
@@ -51,4 +52,9 @@ export const Title = styled.h1`
     letter-spacing: -0.5px;
     font-size: 13px;
   }
+`;
+
+export const StyledLink = styled(Link)`
+  color: inherit;
+  text-decoration: none;
 `;
