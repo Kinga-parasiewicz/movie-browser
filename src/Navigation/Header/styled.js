@@ -6,7 +6,7 @@ export const LogoWrapper = styled.div`
   align-items: center;
   justify-content: space-around;
   flex-wrap: nowrap;
-  gap: 16px;
+  gap: 12px;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.tablet}px) {
     gap: 8px;
@@ -27,7 +27,7 @@ export const Logo = styled.img`
   }
 
   @media (max-width: ${({ theme }) => theme.breakpoints.mobile}px) {
-    height: 20px;
+    height: 24px;
     padding: 0 4px 0 0;
   }
 `;
@@ -40,6 +40,7 @@ export const Title = styled.h1`
   line-height: 1.7;
   letter-spacing: -1.5px;
   text-transform: capitalize;
+  margin-right: 16px;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.tablet}px) {
     letter-spacing: -1px;
@@ -50,7 +51,8 @@ export const Title = styled.h1`
   @media (max-width: ${({ theme }) => theme.breakpoints.mobile}px) {
     line-height: 1.3;
     letter-spacing: -0.5px;
-    font-size: 13px;
+    font-size: 16px;
+    margin-right: 2px;
   }
 `;
 
