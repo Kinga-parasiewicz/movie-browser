@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/movies-browser/static/js/main.1b37f6f3.chunk.js",
-    "main.js.map": "/movies-browser/static/js/main.1b37f6f3.chunk.js.map",
+    "main.js": "/movies-browser/static/js/main.4699fd23.chunk.js",
+    "main.js.map": "/movies-browser/static/js/main.4699fd23.chunk.js.map",
     "runtime-main.js": "/movies-browser/static/js/runtime-main.a35a9232.js",
     "runtime-main.js.map": "/movies-browser/static/js/runtime-main.a35a9232.js.map",
-    "static/js/2.179691e5.chunk.js": "/movies-browser/static/js/2.179691e5.chunk.js",
-    "static/js/2.179691e5.chunk.js.map": "/movies-browser/static/js/2.179691e5.chunk.js.map",
+    "static/js/2.c97a07d8.chunk.js": "/movies-browser/static/js/2.c97a07d8.chunk.js",
+    "static/js/2.c97a07d8.chunk.js.map": "/movies-browser/static/js/2.c97a07d8.chunk.js.map",
     "static/js/3.6ff5f2fc.chunk.js": "/movies-browser/static/js/3.6ff5f2fc.chunk.js",
     "static/js/3.6ff5f2fc.chunk.js.map": "/movies-browser/static/js/3.6ff5f2fc.chunk.js.map",
     "index.html": "/movies-browser/index.html",
-    "static/js/2.179691e5.chunk.js.LICENSE.txt": "/movies-browser/static/js/2.179691e5.chunk.js.LICENSE.txt",
+    "static/js/2.c97a07d8.chunk.js.LICENSE.txt": "/movies-browser/static/js/2.c97a07d8.chunk.js.LICENSE.txt",
     "static/media/downArrowBlue.39c45568.svg": "/movies-browser/static/media/downArrowBlue.39c45568.svg",
     "static/media/error.75c80942.svg": "/movies-browser/static/media/error.75c80942.svg",
     "static/media/leftArrowBlue.79b4dff4.svg": "/movies-browser/static/media/leftArrowBlue.79b4dff4.svg",
@@ -27,7 +27,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a35a9232.js",
-    "static/js/2.179691e5.chunk.js",
-    "static/js/main.1b37f6f3.chunk.js"
+    "static/js/2.c97a07d8.chunk.js",
+    "static/js/main.4699fd23.chunk.js"
   ]
 }
