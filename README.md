@@ -8,7 +8,7 @@ We divide it into two subpages: movies and people. It returns a lot of informati
 Wet got api from https://developers.themoviedb.org/3
 
 ## Demo 
-Click here to see app demo => [click!](https://izabelanowak.github.io/movies-browser/#/movies)
+Click here to see app demo => [click!](http://kinga-parasiewicz.github.io/movies-browser/#/movies)
 
 
 ![demo gif](src/demo.gif)
