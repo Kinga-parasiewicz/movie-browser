@@ -7,7 +7,7 @@ export const Header = () => {
     <StyledLink to={toMovies()}>
       <LogoWrapper>
         <Logo src={logo} alt="" />
-        <Title>movies&nbsp;browser</Title>
+        <Title>movie&nbsp;browser</Title>
       </LogoWrapper>
     </StyledLink>
   );
