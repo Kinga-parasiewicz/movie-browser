@@ -11,8 +11,8 @@ import {
 import { Wrapper } from "./styled";
 import { GenerateTile } from "./../generateTile/index";
 import { NoResult } from "./../../../common/NoResult/index";
-import noPoster from "./../../../assets/noPoster.svg";
-import noProfile from "./../../../assets/noProfile.svg";
+import noPoster from "./../../../common-images/noPoster.svg";
+import noProfile from "./../../../common-images/noProfile.svg";
 
 export const DynamicBox = ({ query }) => {
   const dispatch = useDispatch();
