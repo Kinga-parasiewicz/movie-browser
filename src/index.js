@@ -3,11 +3,11 @@ import ReactDOM from "react-dom";
 import { ThemeProvider } from "styled-components";
 import { Normalize } from "styled-normalize";
 import { Provider } from "react-redux";
-import { GlobalStyle } from "./GlobalStyle";
+import { GlobalStyle } from "./core/GlobalStyle";
 import { App } from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { theme } from "./theme";
-import store from "./store";
+import { theme } from "./core/theme";
+import store from "./core/store";
 
 ReactDOM.render(
   <React.StrictMode>

@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useSelector } from "react-redux";
 import { nanoid } from "@reduxjs/toolkit";
 import { apiImage, apiKey } from "../commonValues";
-import { toMovie, toProfile } from "../routes";
+import { toMovie, toProfile } from "./../../core/routes";
 import { StyledLink } from "../StyledLink";
 import { MediumTile } from "../Tile/MediumTile";
 import { SmallTile } from "../Tile/SmallTile";

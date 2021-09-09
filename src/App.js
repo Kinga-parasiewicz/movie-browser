@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { HashRouter, Redirect, Route, Switch } from "react-router-dom";
-import { Navigation } from "./Navigation";
+import { Navigation } from "./core/Navigation";
 import MoviesPage from "./features/MoviesPage";
 import MoviePage from "./features/MoviePage";
 import PeoplePage from "./features/PeoplePage";
@@ -12,7 +12,7 @@ import {
   toMovies,
   toPeople,
   toProfile,
-} from "./common/routes";
+} from "./core/routes";
 import { fetchCommon } from "./common/commonSlice";
 import { useDispatch } from "react-redux";
 

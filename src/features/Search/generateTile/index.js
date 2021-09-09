@@ -1,6 +1,6 @@
 import React from "react";
 import { MiniImage, MiniText, MiniWrapper } from "./styled";
-import { toMovie, toProfile } from "./../../../common/routes";
+import { toMovie, toProfile } from "./../../../core/routes";
 import { nanoid } from "@reduxjs/toolkit";
 
 export const GenerateTile = ({ pathText, id, image, text }) => {
